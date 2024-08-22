@@ -17,9 +17,8 @@ Before running the script, ensure you have the following installed:
 
 You can install the required libraries using pip:
 
-```bash
-pip install selenium webdriver-manager
-
+bash
+`pip install selenium webdriver-manager`
 
 ---
 
